@@ -1,0 +1,3 @@
+flex File_name.lex
+gcc lex.yy.c -o lexer 
+./lexer File_name if Required   // to run file
